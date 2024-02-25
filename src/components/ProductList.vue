@@ -45,7 +45,8 @@ ul.product-list {
   flex-wrap: wrap;
 }
 li:hover {
-  background-color: #acc0d8;
+  background-color: #a3c6f1;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
 }
 li {
   border: 1px solid #003163;
